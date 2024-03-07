@@ -1,0 +1,23 @@
+body {
+  padding: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(219, 255, 243);
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.recipes-list {
+  font-size: 25px;
+}
+
+.home-link {
+  border: 3px solid black;
+  padding: 8px 16px;
+  border-radius: 10px;
+  font-size: 1.3rem;
+  color: black;
+  font-weight: bold;
+}
